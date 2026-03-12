@@ -1,4 +1,3 @@
-import java.util.Random;
 import java.util.concurrent.ThreadLocalRandom;
 
 // beberapa cara untuk mendapatkan sebuah nilai random di java, diantaranya : 
