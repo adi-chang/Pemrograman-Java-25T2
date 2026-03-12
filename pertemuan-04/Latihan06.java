@@ -1,5 +1,3 @@
-import java.util.Arrays;
-
 public class Latihan06 {
     public static void main(String[] args) {
         // items data 
