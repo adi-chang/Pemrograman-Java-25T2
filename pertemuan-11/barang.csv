@@ -1,0 +1,1001 @@
+kode,nama,kategori,satuan,hargasatuan,quantitystock
+BRG0001,Barang Kelontong 1,Makanan,pcs,90350,336
+BRG0002,Barang Kelontong 2,Bumbu,kg,77900,401
+BRG0003,Barang Kelontong 3,Bumbu,pack,19200,394
+BRG0004,Barang Kelontong 4,Makanan,gram,67200,139
+BRG0005,Barang Kelontong 5,Makanan,kg,65700,103
+BRG0006,Barang Kelontong 6,Bumbu,pack,58350,486
+BRG0007,Barang Kelontong 7,Kebutuhan Rumah,botol,82100,399
+BRG0008,Barang Kelontong 8,Bumbu,pcs,79900,469
+BRG0009,Barang Kelontong 9,Bumbu,kg,83550,460
+BRG0010,Barang Kelontong 10,Makanan,pack,63150,218
+BRG0011,Barang Kelontong 11,Snack,gram,58550,429
+BRG0012,Barang Kelontong 12,Minuman,gram,58250,431
+BRG0013,Barang Kelontong 13,Makanan,pack,72900,433
+BRG0014,Barang Kelontong 14,Bumbu,kg,41650,51
+BRG0015,Barang Kelontong 15,Snack,pack,20700,49
+BRG0016,Barang Kelontong 16,Minuman,pcs,12650,181
+BRG0017,Barang Kelontong 17,Snack,pcs,57550,381
+BRG0018,Barang Kelontong 18,Snack,pack,1350,284
+BRG0019,Barang Kelontong 19,Minuman,botol,16050,236
+BRG0020,Barang Kelontong 20,Snack,pcs,72150,242
+BRG0021,Barang Kelontong 21,Kebutuhan Rumah,botol,26400,96
+BRG0022,Barang Kelontong 22,Kebutuhan Rumah,pcs,97900,376
+BRG0023,Barang Kelontong 23,Makanan,pack,38100,71
+BRG0024,Barang Kelontong 24,Bumbu,gram,30050,333
+BRG0025,Barang Kelontong 25,Snack,pcs,85450,372
+BRG0026,Barang Kelontong 26,Makanan,gram,65150,77
+BRG0027,Barang Kelontong 27,Kebutuhan Rumah,pack,17550,236
+BRG0028,Barang Kelontong 28,Snack,pcs,18250,489
+BRG0029,Barang Kelontong 29,Kebutuhan Rumah,gram,3150,224
+BRG0030,Barang Kelontong 30,Minuman,pcs,12650,157
+BRG0031,Barang Kelontong 31,Snack,gram,96750,138
+BRG0032,Barang Kelontong 32,Kebutuhan Rumah,pcs,61250,71
+BRG0033,Barang Kelontong 33,Makanan,pcs,19700,146
+BRG0034,Barang Kelontong 34,Bumbu,pack,59250,286
+BRG0035,Barang Kelontong 35,Minuman,pcs,40550,372
+BRG0036,Barang Kelontong 36,Minuman,pack,39600,79
+BRG0037,Barang Kelontong 37,Bumbu,gram,43250,464
+BRG0038,Barang Kelontong 38,Kebutuhan Rumah,pcs,71300,465
+BRG0039,Barang Kelontong 39,Kebutuhan Rumah,pcs,55950,295
+BRG0040,Barang Kelontong 40,Snack,kg,8300,335
+BRG0041,Barang Kelontong 41,Makanan,pack,78600,163
+BRG0042,Barang Kelontong 42,Kebutuhan Rumah,pcs,27450,38
+BRG0043,Barang Kelontong 43,Makanan,botol,32350,474
+BRG0044,Barang Kelontong 44,Snack,kg,34450,106
+BRG0045,Barang Kelontong 45,Makanan,pack,14800,475
+BRG0046,Barang Kelontong 46,Minuman,gram,24150,430
+BRG0047,Barang Kelontong 47,Minuman,kg,83750,235
+BRG0048,Barang Kelontong 48,Snack,pack,15300,37
+BRG0049,Barang Kelontong 49,Minuman,gram,80750,494
+BRG0050,Barang Kelontong 50,Minuman,pcs,78100,329
+BRG0051,Barang Kelontong 51,Bumbu,kg,29500,47
+BRG0052,Barang Kelontong 52,Snack,gram,13450,95
+BRG0053,Barang Kelontong 53,Minuman,gram,33050,187
+BRG0054,Barang Kelontong 54,Snack,botol,53550,72
+BRG0055,Barang Kelontong 55,Kebutuhan Rumah,botol,50300,257
+BRG0056,Barang Kelontong 56,Bumbu,kg,3000,277
+BRG0057,Barang Kelontong 57,Bumbu,gram,64650,492
+BRG0058,Barang Kelontong 58,Kebutuhan Rumah,gram,26200,436
+BRG0059,Barang Kelontong 59,Bumbu,gram,65100,158
+BRG0060,Barang Kelontong 60,Kebutuhan Rumah,pack,58450,99
+BRG0061,Barang Kelontong 61,Kebutuhan Rumah,pcs,19250,92
+BRG0062,Barang Kelontong 62,Bumbu,pcs,68500,182
+BRG0063,Barang Kelontong 63,Snack,pcs,82250,165
+BRG0064,Barang Kelontong 64,Makanan,pcs,9250,147
+BRG0065,Barang Kelontong 65,Kebutuhan Rumah,pcs,65750,186
+BRG0066,Barang Kelontong 66,Bumbu,pcs,94850,497
+BRG0067,Barang Kelontong 67,Minuman,kg,29000,68
+BRG0068,Barang Kelontong 68,Kebutuhan Rumah,botol,30250,382
+BRG0069,Barang Kelontong 69,Makanan,botol,10000,163
+BRG0070,Barang Kelontong 70,Makanan,pcs,12000,132
+BRG0071,Barang Kelontong 71,Kebutuhan Rumah,pcs,52700,469
+BRG0072,Barang Kelontong 72,Bumbu,gram,73350,213
+BRG0073,Barang Kelontong 73,Minuman,pcs,97350,379
+BRG0074,Barang Kelontong 74,Makanan,kg,24900,283
+BRG0075,Barang Kelontong 75,Kebutuhan Rumah,gram,61050,214
+BRG0076,Barang Kelontong 76,Minuman,pack,27300,263
+BRG0077,Barang Kelontong 77,Bumbu,kg,1600,485
+BRG0078,Barang Kelontong 78,Bumbu,botol,33700,416
+BRG0079,Barang Kelontong 79,Bumbu,botol,42850,139
+BRG0080,Barang Kelontong 80,Minuman,botol,28800,14
+BRG0081,Barang Kelontong 81,Bumbu,kg,72550,143
+BRG0082,Barang Kelontong 82,Bumbu,pcs,48800,362
+BRG0083,Barang Kelontong 83,Makanan,pcs,20950,499
+BRG0084,Barang Kelontong 84,Snack,botol,21650,147
+BRG0085,Barang Kelontong 85,Makanan,botol,54650,484
+BRG0086,Barang Kelontong 86,Makanan,botol,84250,365
+BRG0087,Barang Kelontong 87,Makanan,kg,24100,137
+BRG0088,Barang Kelontong 88,Makanan,pack,50150,52
+BRG0089,Barang Kelontong 89,Bumbu,gram,93300,291
+BRG0090,Barang Kelontong 90,Makanan,botol,64050,22
+BRG0091,Barang Kelontong 91,Kebutuhan Rumah,kg,26300,61
+BRG0092,Barang Kelontong 92,Minuman,gram,2800,222
+BRG0093,Barang Kelontong 93,Minuman,pcs,23050,121
+BRG0094,Barang Kelontong 94,Minuman,pack,22850,80
+BRG0095,Barang Kelontong 95,Snack,pack,41900,144
+BRG0096,Barang Kelontong 96,Makanan,kg,6050,115
+BRG0097,Barang Kelontong 97,Snack,pack,93450,139
+BRG0098,Barang Kelontong 98,Snack,kg,85000,493
+BRG0099,Barang Kelontong 99,Minuman,pcs,29000,460
+BRG0100,Barang Kelontong 100,Snack,pcs,33650,42
+BRG0101,Barang Kelontong 101,Bumbu,pack,51450,441
+BRG0102,Barang Kelontong 102,Snack,kg,5250,142
+BRG0103,Barang Kelontong 103,Bumbu,kg,18050,105
+BRG0104,Barang Kelontong 104,Minuman,pack,20950,268
+BRG0105,Barang Kelontong 105,Kebutuhan Rumah,kg,15000,285
+BRG0106,Barang Kelontong 106,Makanan,kg,1150,492
+BRG0107,Barang Kelontong 107,Kebutuhan Rumah,pack,41650,197
+BRG0108,Barang Kelontong 108,Makanan,gram,52600,244
+BRG0109,Barang Kelontong 109,Snack,botol,9300,232
+BRG0110,Barang Kelontong 110,Kebutuhan Rumah,kg,31350,397
+BRG0111,Barang Kelontong 111,Kebutuhan Rumah,kg,21600,30
+BRG0112,Barang Kelontong 112,Makanan,gram,97550,325
+BRG0113,Barang Kelontong 113,Bumbu,pack,94450,424
+BRG0114,Barang Kelontong 114,Minuman,pack,46050,272
+BRG0115,Barang Kelontong 115,Minuman,botol,76000,479
+BRG0116,Barang Kelontong 116,Snack,gram,96350,279
+BRG0117,Barang Kelontong 117,Kebutuhan Rumah,pcs,76600,341
+BRG0118,Barang Kelontong 118,Kebutuhan Rumah,pcs,65700,364
+BRG0119,Barang Kelontong 119,Snack,gram,8850,335
+BRG0120,Barang Kelontong 120,Makanan,pcs,30650,255
+BRG0121,Barang Kelontong 121,Bumbu,gram,89900,324
+BRG0122,Barang Kelontong 122,Minuman,botol,1150,331
+BRG0123,Barang Kelontong 123,Bumbu,kg,37500,279
+BRG0124,Barang Kelontong 124,Snack,pack,89450,65
+BRG0125,Barang Kelontong 125,Snack,botol,84150,117
+BRG0126,Barang Kelontong 126,Minuman,pcs,87850,466
+BRG0127,Barang Kelontong 127,Minuman,gram,95450,269
+BRG0128,Barang Kelontong 128,Kebutuhan Rumah,kg,23150,181
+BRG0129,Barang Kelontong 129,Snack,kg,4450,236
+BRG0130,Barang Kelontong 130,Kebutuhan Rumah,pack,57150,173
+BRG0131,Barang Kelontong 131,Makanan,pack,89950,160
+BRG0132,Barang Kelontong 132,Snack,botol,81000,322
+BRG0133,Barang Kelontong 133,Kebutuhan Rumah,pack,14400,386
+BRG0134,Barang Kelontong 134,Minuman,gram,19950,229
+BRG0135,Barang Kelontong 135,Bumbu,kg,82500,272
+BRG0136,Barang Kelontong 136,Snack,pack,73100,163
+BRG0137,Barang Kelontong 137,Makanan,pcs,20600,367
+BRG0138,Barang Kelontong 138,Bumbu,gram,87350,489
+BRG0139,Barang Kelontong 139,Snack,gram,49800,31
+BRG0140,Barang Kelontong 140,Bumbu,pack,81900,80
+BRG0141,Barang Kelontong 141,Makanan,pack,26800,391
+BRG0142,Barang Kelontong 142,Snack,pcs,16000,258
+BRG0143,Barang Kelontong 143,Kebutuhan Rumah,gram,8000,10
+BRG0144,Barang Kelontong 144,Snack,botol,4550,69
+BRG0145,Barang Kelontong 145,Kebutuhan Rumah,gram,8950,44
+BRG0146,Barang Kelontong 146,Minuman,pcs,60400,39
+BRG0147,Barang Kelontong 147,Makanan,kg,90700,163
+BRG0148,Barang Kelontong 148,Makanan,botol,39200,25
+BRG0149,Barang Kelontong 149,Makanan,kg,99550,9
+BRG0150,Barang Kelontong 150,Kebutuhan Rumah,botol,44200,259
+BRG0151,Barang Kelontong 151,Kebutuhan Rumah,pcs,40650,98
+BRG0152,Barang Kelontong 152,Bumbu,pack,18700,342
+BRG0153,Barang Kelontong 153,Snack,kg,46200,405
+BRG0154,Barang Kelontong 154,Makanan,botol,22800,380
+BRG0155,Barang Kelontong 155,Makanan,botol,82150,210
+BRG0156,Barang Kelontong 156,Bumbu,kg,92300,80
+BRG0157,Barang Kelontong 157,Snack,pcs,26850,486
+BRG0158,Barang Kelontong 158,Minuman,pcs,18050,123
+BRG0159,Barang Kelontong 159,Makanan,botol,61000,80
+BRG0160,Barang Kelontong 160,Bumbu,botol,18850,338
+BRG0161,Barang Kelontong 161,Snack,pcs,44950,280
+BRG0162,Barang Kelontong 162,Kebutuhan Rumah,gram,94250,173
+BRG0163,Barang Kelontong 163,Makanan,kg,19050,294
+BRG0164,Barang Kelontong 164,Snack,kg,68600,67
+BRG0165,Barang Kelontong 165,Bumbu,pack,75050,214
+BRG0166,Barang Kelontong 166,Bumbu,kg,14900,295
+BRG0167,Barang Kelontong 167,Snack,botol,90450,262
+BRG0168,Barang Kelontong 168,Minuman,pack,51050,372
+BRG0169,Barang Kelontong 169,Kebutuhan Rumah,kg,19600,8
+BRG0170,Barang Kelontong 170,Minuman,pcs,20050,14
+BRG0171,Barang Kelontong 171,Bumbu,pack,54700,318
+BRG0172,Barang Kelontong 172,Kebutuhan Rumah,pcs,86850,304
+BRG0173,Barang Kelontong 173,Bumbu,botol,96150,356
+BRG0174,Barang Kelontong 174,Kebutuhan Rumah,pcs,28300,265
+BRG0175,Barang Kelontong 175,Kebutuhan Rumah,pack,65300,238
+BRG0176,Barang Kelontong 176,Kebutuhan Rumah,botol,62100,149
+BRG0177,Barang Kelontong 177,Makanan,botol,65500,165
+BRG0178,Barang Kelontong 178,Kebutuhan Rumah,botol,69300,390
+BRG0179,Barang Kelontong 179,Bumbu,gram,69200,325
+BRG0180,Barang Kelontong 180,Kebutuhan Rumah,botol,39250,197
+BRG0181,Barang Kelontong 181,Kebutuhan Rumah,gram,5500,445
+BRG0182,Barang Kelontong 182,Kebutuhan Rumah,gram,59700,92
+BRG0183,Barang Kelontong 183,Snack,botol,22700,207
+BRG0184,Barang Kelontong 184,Bumbu,kg,56050,411
+BRG0185,Barang Kelontong 185,Snack,kg,3450,233
+BRG0186,Barang Kelontong 186,Makanan,pcs,32450,229
+BRG0187,Barang Kelontong 187,Minuman,botol,36050,394
+BRG0188,Barang Kelontong 188,Minuman,botol,11500,291
+BRG0189,Barang Kelontong 189,Bumbu,gram,39450,472
+BRG0190,Barang Kelontong 190,Snack,botol,58600,369
+BRG0191,Barang Kelontong 191,Makanan,pack,64150,458
+BRG0192,Barang Kelontong 192,Minuman,pack,96000,341
+BRG0193,Barang Kelontong 193,Bumbu,kg,42000,357
+BRG0194,Barang Kelontong 194,Kebutuhan Rumah,kg,46500,405
+BRG0195,Barang Kelontong 195,Snack,pack,48850,245
+BRG0196,Barang Kelontong 196,Kebutuhan Rumah,pcs,66750,227
+BRG0197,Barang Kelontong 197,Makanan,botol,42200,368
+BRG0198,Barang Kelontong 198,Minuman,kg,33150,25
+BRG0199,Barang Kelontong 199,Kebutuhan Rumah,botol,15450,91
+BRG0200,Barang Kelontong 200,Bumbu,kg,83600,116
+BRG0201,Barang Kelontong 201,Minuman,pack,75400,11
+BRG0202,Barang Kelontong 202,Snack,gram,38250,234
+BRG0203,Barang Kelontong 203,Bumbu,botol,50600,212
+BRG0204,Barang Kelontong 204,Minuman,botol,65350,332
+BRG0205,Barang Kelontong 205,Kebutuhan Rumah,botol,8300,91
+BRG0206,Barang Kelontong 206,Bumbu,botol,48750,464
+BRG0207,Barang Kelontong 207,Bumbu,pack,15100,135
+BRG0208,Barang Kelontong 208,Makanan,gram,44750,472
+BRG0209,Barang Kelontong 209,Bumbu,gram,47300,168
+BRG0210,Barang Kelontong 210,Kebutuhan Rumah,gram,21800,384
+BRG0211,Barang Kelontong 211,Makanan,gram,84750,47
+BRG0212,Barang Kelontong 212,Bumbu,pcs,6900,462
+BRG0213,Barang Kelontong 213,Bumbu,pcs,4300,18
+BRG0214,Barang Kelontong 214,Makanan,pack,16750,291
+BRG0215,Barang Kelontong 215,Bumbu,gram,44750,348
+BRG0216,Barang Kelontong 216,Minuman,gram,11600,461
+BRG0217,Barang Kelontong 217,Snack,pcs,84050,286
+BRG0218,Barang Kelontong 218,Bumbu,pcs,54300,160
+BRG0219,Barang Kelontong 219,Minuman,pack,35950,154
+BRG0220,Barang Kelontong 220,Minuman,pcs,14200,451
+BRG0221,Barang Kelontong 221,Bumbu,kg,72200,340
+BRG0222,Barang Kelontong 222,Minuman,gram,92300,228
+BRG0223,Barang Kelontong 223,Snack,kg,43000,335
+BRG0224,Barang Kelontong 224,Minuman,pcs,33400,40
+BRG0225,Barang Kelontong 225,Kebutuhan Rumah,kg,79300,283
+BRG0226,Barang Kelontong 226,Makanan,pcs,63700,59
+BRG0227,Barang Kelontong 227,Snack,pack,55200,226
+BRG0228,Barang Kelontong 228,Makanan,gram,28700,47
+BRG0229,Barang Kelontong 229,Snack,gram,64100,232
+BRG0230,Barang Kelontong 230,Minuman,kg,30650,136
+BRG0231,Barang Kelontong 231,Makanan,pack,42800,329
+BRG0232,Barang Kelontong 232,Snack,botol,92250,216
+BRG0233,Barang Kelontong 233,Snack,kg,8900,42
+BRG0234,Barang Kelontong 234,Minuman,gram,53200,292
+BRG0235,Barang Kelontong 235,Kebutuhan Rumah,gram,14450,56
+BRG0236,Barang Kelontong 236,Makanan,botol,48550,217
+BRG0237,Barang Kelontong 237,Kebutuhan Rumah,kg,93350,293
+BRG0238,Barang Kelontong 238,Bumbu,botol,94800,11
+BRG0239,Barang Kelontong 239,Bumbu,pack,65850,286
+BRG0240,Barang Kelontong 240,Snack,botol,61500,254
+BRG0241,Barang Kelontong 241,Kebutuhan Rumah,gram,75850,423
+BRG0242,Barang Kelontong 242,Snack,gram,63700,147
+BRG0243,Barang Kelontong 243,Kebutuhan Rumah,pack,41950,429
+BRG0244,Barang Kelontong 244,Bumbu,pcs,73500,153
+BRG0245,Barang Kelontong 245,Snack,pack,63700,210
+BRG0246,Barang Kelontong 246,Bumbu,gram,97600,315
+BRG0247,Barang Kelontong 247,Bumbu,pcs,35850,395
+BRG0248,Barang Kelontong 248,Minuman,gram,99400,478
+BRG0249,Barang Kelontong 249,Snack,gram,53100,310
+BRG0250,Barang Kelontong 250,Makanan,pcs,85150,237
+BRG0251,Barang Kelontong 251,Bumbu,gram,17800,263
+BRG0252,Barang Kelontong 252,Bumbu,pack,32950,375
+BRG0253,Barang Kelontong 253,Minuman,botol,31250,76
+BRG0254,Barang Kelontong 254,Bumbu,pack,99750,253
+BRG0255,Barang Kelontong 255,Makanan,pack,54150,294
+BRG0256,Barang Kelontong 256,Minuman,kg,84450,168
+BRG0257,Barang Kelontong 257,Minuman,pcs,40850,288
+BRG0258,Barang Kelontong 258,Minuman,kg,39650,289
+BRG0259,Barang Kelontong 259,Snack,kg,2700,242
+BRG0260,Barang Kelontong 260,Minuman,gram,82250,415
+BRG0261,Barang Kelontong 261,Kebutuhan Rumah,pack,93250,111
+BRG0262,Barang Kelontong 262,Minuman,kg,65350,188
+BRG0263,Barang Kelontong 263,Snack,pack,34300,131
+BRG0264,Barang Kelontong 264,Makanan,pcs,62400,381
+BRG0265,Barang Kelontong 265,Snack,botol,59800,290
+BRG0266,Barang Kelontong 266,Minuman,pack,79300,489
+BRG0267,Barang Kelontong 267,Makanan,kg,16750,470
+BRG0268,Barang Kelontong 268,Snack,botol,57350,151
+BRG0269,Barang Kelontong 269,Snack,kg,48850,214
+BRG0270,Barang Kelontong 270,Snack,botol,52500,28
+BRG0271,Barang Kelontong 271,Snack,kg,34000,362
+BRG0272,Barang Kelontong 272,Bumbu,pcs,22100,22
+BRG0273,Barang Kelontong 273,Minuman,kg,7250,178
+BRG0274,Barang Kelontong 274,Bumbu,botol,14500,287
+BRG0275,Barang Kelontong 275,Bumbu,botol,1600,156
+BRG0276,Barang Kelontong 276,Minuman,kg,16400,12
+BRG0277,Barang Kelontong 277,Kebutuhan Rumah,gram,74950,113
+BRG0278,Barang Kelontong 278,Minuman,botol,61200,416
+BRG0279,Barang Kelontong 279,Makanan,gram,65350,25
+BRG0280,Barang Kelontong 280,Minuman,gram,15600,106
+BRG0281,Barang Kelontong 281,Makanan,pack,49550,195
+BRG0282,Barang Kelontong 282,Makanan,pcs,96300,393
+BRG0283,Barang Kelontong 283,Snack,botol,82550,298
+BRG0284,Barang Kelontong 284,Bumbu,botol,5000,495
+BRG0285,Barang Kelontong 285,Makanan,botol,51800,108
+BRG0286,Barang Kelontong 286,Minuman,botol,15150,397
+BRG0287,Barang Kelontong 287,Minuman,gram,7550,330
+BRG0288,Barang Kelontong 288,Kebutuhan Rumah,kg,33100,110
+BRG0289,Barang Kelontong 289,Makanan,kg,31400,283
+BRG0290,Barang Kelontong 290,Snack,pcs,43350,449
+BRG0291,Barang Kelontong 291,Makanan,pack,16300,161
+BRG0292,Barang Kelontong 292,Kebutuhan Rumah,gram,90050,2
+BRG0293,Barang Kelontong 293,Bumbu,pack,38400,436
+BRG0294,Barang Kelontong 294,Snack,pack,38000,205
+BRG0295,Barang Kelontong 295,Minuman,kg,64050,296
+BRG0296,Barang Kelontong 296,Makanan,gram,72550,171
+BRG0297,Barang Kelontong 297,Kebutuhan Rumah,botol,6250,346
+BRG0298,Barang Kelontong 298,Snack,gram,45050,158
+BRG0299,Barang Kelontong 299,Minuman,pcs,45750,464
+BRG0300,Barang Kelontong 300,Kebutuhan Rumah,pack,65500,202
+BRG0301,Barang Kelontong 301,Kebutuhan Rumah,kg,48250,275
+BRG0302,Barang Kelontong 302,Bumbu,kg,45400,206
+BRG0303,Barang Kelontong 303,Minuman,pack,17600,273
+BRG0304,Barang Kelontong 304,Bumbu,botol,85750,82
+BRG0305,Barang Kelontong 305,Kebutuhan Rumah,botol,48350,77
+BRG0306,Barang Kelontong 306,Makanan,kg,99200,395
+BRG0307,Barang Kelontong 307,Kebutuhan Rumah,gram,43800,12
+BRG0308,Barang Kelontong 308,Bumbu,pcs,45150,338
+BRG0309,Barang Kelontong 309,Snack,kg,41500,340
+BRG0310,Barang Kelontong 310,Makanan,kg,14600,372
+BRG0311,Barang Kelontong 311,Kebutuhan Rumah,pack,86950,303
+BRG0312,Barang Kelontong 312,Makanan,botol,48850,311
+BRG0313,Barang Kelontong 313,Makanan,pack,83650,343
+BRG0314,Barang Kelontong 314,Snack,pcs,1150,139
+BRG0315,Barang Kelontong 315,Snack,pack,43450,307
+BRG0316,Barang Kelontong 316,Bumbu,pcs,96700,386
+BRG0317,Barang Kelontong 317,Minuman,kg,90200,156
+BRG0318,Barang Kelontong 318,Kebutuhan Rumah,pack,50700,150
+BRG0319,Barang Kelontong 319,Bumbu,botol,83600,492
+BRG0320,Barang Kelontong 320,Snack,pack,43150,199
+BRG0321,Barang Kelontong 321,Bumbu,gram,61450,44
+BRG0322,Barang Kelontong 322,Makanan,botol,41650,302
+BRG0323,Barang Kelontong 323,Snack,gram,82000,257
+BRG0324,Barang Kelontong 324,Bumbu,kg,13350,499
+BRG0325,Barang Kelontong 325,Makanan,kg,62900,24
+BRG0326,Barang Kelontong 326,Kebutuhan Rumah,gram,86100,105
+BRG0327,Barang Kelontong 327,Kebutuhan Rumah,pcs,30950,64
+BRG0328,Barang Kelontong 328,Bumbu,botol,3300,311
+BRG0329,Barang Kelontong 329,Bumbu,pack,61000,402
+BRG0330,Barang Kelontong 330,Bumbu,kg,55250,377
+BRG0331,Barang Kelontong 331,Minuman,kg,46250,335
+BRG0332,Barang Kelontong 332,Bumbu,pcs,33050,231
+BRG0333,Barang Kelontong 333,Makanan,botol,5750,130
+BRG0334,Barang Kelontong 334,Snack,pcs,56400,384
+BRG0335,Barang Kelontong 335,Minuman,pack,62400,448
+BRG0336,Barang Kelontong 336,Snack,botol,21700,95
+BRG0337,Barang Kelontong 337,Kebutuhan Rumah,kg,60400,362
+BRG0338,Barang Kelontong 338,Minuman,pcs,51400,218
+BRG0339,Barang Kelontong 339,Bumbu,botol,39550,236
+BRG0340,Barang Kelontong 340,Kebutuhan Rumah,gram,60950,488
+BRG0341,Barang Kelontong 341,Minuman,botol,72300,375
+BRG0342,Barang Kelontong 342,Kebutuhan Rumah,pack,77400,226
+BRG0343,Barang Kelontong 343,Minuman,kg,87850,324
+BRG0344,Barang Kelontong 344,Makanan,botol,32050,420
+BRG0345,Barang Kelontong 345,Kebutuhan Rumah,pcs,79550,374
+BRG0346,Barang Kelontong 346,Minuman,botol,76500,234
+BRG0347,Barang Kelontong 347,Makanan,gram,23200,493
+BRG0348,Barang Kelontong 348,Minuman,pcs,58000,309
+BRG0349,Barang Kelontong 349,Makanan,botol,13500,134
+BRG0350,Barang Kelontong 350,Kebutuhan Rumah,gram,82400,117
+BRG0351,Barang Kelontong 351,Bumbu,botol,87700,461
+BRG0352,Barang Kelontong 352,Snack,pack,15500,291
+BRG0353,Barang Kelontong 353,Bumbu,pcs,51700,117
+BRG0354,Barang Kelontong 354,Kebutuhan Rumah,botol,13450,124
+BRG0355,Barang Kelontong 355,Minuman,botol,29150,446
+BRG0356,Barang Kelontong 356,Kebutuhan Rumah,pcs,4600,490
+BRG0357,Barang Kelontong 357,Bumbu,botol,23500,174
+BRG0358,Barang Kelontong 358,Makanan,gram,67950,457
+BRG0359,Barang Kelontong 359,Minuman,gram,95950,256
+BRG0360,Barang Kelontong 360,Makanan,pcs,64200,62
+BRG0361,Barang Kelontong 361,Makanan,pack,68550,404
+BRG0362,Barang Kelontong 362,Minuman,gram,19150,272
+BRG0363,Barang Kelontong 363,Minuman,kg,62500,488
+BRG0364,Barang Kelontong 364,Bumbu,pcs,58200,138
+BRG0365,Barang Kelontong 365,Minuman,pcs,94400,304
+BRG0366,Barang Kelontong 366,Makanan,kg,43550,221
+BRG0367,Barang Kelontong 367,Minuman,botol,40000,209
+BRG0368,Barang Kelontong 368,Minuman,gram,55300,165
+BRG0369,Barang Kelontong 369,Minuman,kg,39850,135
+BRG0370,Barang Kelontong 370,Minuman,botol,98200,283
+BRG0371,Barang Kelontong 371,Makanan,botol,63200,312
+BRG0372,Barang Kelontong 372,Makanan,pcs,55600,415
+BRG0373,Barang Kelontong 373,Snack,pcs,21150,188
+BRG0374,Barang Kelontong 374,Snack,botol,33850,479
+BRG0375,Barang Kelontong 375,Kebutuhan Rumah,botol,14650,124
+BRG0376,Barang Kelontong 376,Bumbu,pcs,72950,51
+BRG0377,Barang Kelontong 377,Minuman,pack,18500,168
+BRG0378,Barang Kelontong 378,Bumbu,kg,43800,18
+BRG0379,Barang Kelontong 379,Makanan,pcs,62650,143
+BRG0380,Barang Kelontong 380,Kebutuhan Rumah,kg,36700,113
+BRG0381,Barang Kelontong 381,Snack,pack,36300,413
+BRG0382,Barang Kelontong 382,Kebutuhan Rumah,pcs,36200,277
+BRG0383,Barang Kelontong 383,Minuman,pack,24150,362
+BRG0384,Barang Kelontong 384,Makanan,kg,94900,53
+BRG0385,Barang Kelontong 385,Snack,kg,41250,234
+BRG0386,Barang Kelontong 386,Minuman,kg,18450,59
+BRG0387,Barang Kelontong 387,Kebutuhan Rumah,pack,20300,26
+BRG0388,Barang Kelontong 388,Kebutuhan Rumah,gram,21600,444
+BRG0389,Barang Kelontong 389,Snack,kg,31650,324
+BRG0390,Barang Kelontong 390,Snack,gram,20600,59
+BRG0391,Barang Kelontong 391,Kebutuhan Rumah,pack,84400,483
+BRG0392,Barang Kelontong 392,Snack,pcs,600,49
+BRG0393,Barang Kelontong 393,Snack,pcs,90650,320
+BRG0394,Barang Kelontong 394,Minuman,kg,16250,379
+BRG0395,Barang Kelontong 395,Snack,gram,11800,50
+BRG0396,Barang Kelontong 396,Kebutuhan Rumah,botol,15450,489
+BRG0397,Barang Kelontong 397,Bumbu,pcs,94700,479
+BRG0398,Barang Kelontong 398,Makanan,gram,27750,318
+BRG0399,Barang Kelontong 399,Bumbu,kg,94000,105
+BRG0400,Barang Kelontong 400,Snack,pcs,68200,393
+BRG0401,Barang Kelontong 401,Bumbu,kg,84450,347
+BRG0402,Barang Kelontong 402,Makanan,pack,58650,337
+BRG0403,Barang Kelontong 403,Makanan,pcs,95400,259
+BRG0404,Barang Kelontong 404,Makanan,botol,35100,473
+BRG0405,Barang Kelontong 405,Kebutuhan Rumah,gram,32800,231
+BRG0406,Barang Kelontong 406,Makanan,pack,10300,57
+BRG0407,Barang Kelontong 407,Makanan,botol,30200,213
+BRG0408,Barang Kelontong 408,Makanan,gram,38500,88
+BRG0409,Barang Kelontong 409,Minuman,kg,42050,231
+BRG0410,Barang Kelontong 410,Bumbu,gram,74950,364
+BRG0411,Barang Kelontong 411,Minuman,gram,69650,90
+BRG0412,Barang Kelontong 412,Snack,kg,74400,207
+BRG0413,Barang Kelontong 413,Makanan,gram,51150,216
+BRG0414,Barang Kelontong 414,Bumbu,botol,13000,330
+BRG0415,Barang Kelontong 415,Snack,pack,10750,418
+BRG0416,Barang Kelontong 416,Makanan,botol,89700,331
+BRG0417,Barang Kelontong 417,Kebutuhan Rumah,pcs,87400,357
+BRG0418,Barang Kelontong 418,Bumbu,botol,32200,222
+BRG0419,Barang Kelontong 419,Makanan,botol,14800,250
+BRG0420,Barang Kelontong 420,Makanan,gram,17100,422
+BRG0421,Barang Kelontong 421,Makanan,gram,78600,442
+BRG0422,Barang Kelontong 422,Minuman,gram,81800,380
+BRG0423,Barang Kelontong 423,Makanan,pcs,65750,65
+BRG0424,Barang Kelontong 424,Snack,pack,68300,69
+BRG0425,Barang Kelontong 425,Snack,gram,61600,428
+BRG0426,Barang Kelontong 426,Minuman,gram,97200,335
+BRG0427,Barang Kelontong 427,Minuman,pack,27150,343
+BRG0428,Barang Kelontong 428,Kebutuhan Rumah,gram,21600,79
+BRG0429,Barang Kelontong 429,Snack,botol,33550,421
+BRG0430,Barang Kelontong 430,Kebutuhan Rumah,kg,69500,67
+BRG0431,Barang Kelontong 431,Kebutuhan Rumah,kg,35150,4
+BRG0432,Barang Kelontong 432,Snack,pack,99400,366
+BRG0433,Barang Kelontong 433,Bumbu,gram,18900,215
+BRG0434,Barang Kelontong 434,Makanan,pack,74050,68
+BRG0435,Barang Kelontong 435,Makanan,gram,88000,124
+BRG0436,Barang Kelontong 436,Kebutuhan Rumah,pcs,82150,193
+BRG0437,Barang Kelontong 437,Makanan,kg,87400,440
+BRG0438,Barang Kelontong 438,Snack,botol,20950,213
+BRG0439,Barang Kelontong 439,Minuman,kg,63950,387
+BRG0440,Barang Kelontong 440,Bumbu,gram,70600,143
+BRG0441,Barang Kelontong 441,Bumbu,gram,35000,262
+BRG0442,Barang Kelontong 442,Snack,pack,50200,103
+BRG0443,Barang Kelontong 443,Snack,kg,98300,81
+BRG0444,Barang Kelontong 444,Kebutuhan Rumah,kg,86000,127
+BRG0445,Barang Kelontong 445,Minuman,kg,74250,92
+BRG0446,Barang Kelontong 446,Snack,botol,16000,283
+BRG0447,Barang Kelontong 447,Makanan,kg,54550,449
+BRG0448,Barang Kelontong 448,Kebutuhan Rumah,botol,28250,466
+BRG0449,Barang Kelontong 449,Makanan,kg,45700,100
+BRG0450,Barang Kelontong 450,Snack,botol,43400,407
+BRG0451,Barang Kelontong 451,Minuman,kg,50700,443
+BRG0452,Barang Kelontong 452,Kebutuhan Rumah,pcs,1200,344
+BRG0453,Barang Kelontong 453,Bumbu,pcs,51100,233
+BRG0454,Barang Kelontong 454,Makanan,kg,27000,425
+BRG0455,Barang Kelontong 455,Minuman,kg,33300,390
+BRG0456,Barang Kelontong 456,Minuman,pack,16650,411
+BRG0457,Barang Kelontong 457,Bumbu,pack,89550,248
+BRG0458,Barang Kelontong 458,Kebutuhan Rumah,kg,78200,165
+BRG0459,Barang Kelontong 459,Makanan,kg,38150,375
+BRG0460,Barang Kelontong 460,Snack,pack,59600,126
+BRG0461,Barang Kelontong 461,Makanan,botol,21150,363
+BRG0462,Barang Kelontong 462,Bumbu,pack,87500,188
+BRG0463,Barang Kelontong 463,Minuman,pcs,19950,346
+BRG0464,Barang Kelontong 464,Kebutuhan Rumah,pack,80050,184
+BRG0465,Barang Kelontong 465,Kebutuhan Rumah,pack,4400,162
+BRG0466,Barang Kelontong 466,Minuman,pcs,84200,491
+BRG0467,Barang Kelontong 467,Kebutuhan Rumah,kg,7650,178
+BRG0468,Barang Kelontong 468,Bumbu,pack,30500,288
+BRG0469,Barang Kelontong 469,Makanan,botol,82950,100
+BRG0470,Barang Kelontong 470,Makanan,kg,85850,463
+BRG0471,Barang Kelontong 471,Minuman,botol,96050,23
+BRG0472,Barang Kelontong 472,Bumbu,pack,85700,292
+BRG0473,Barang Kelontong 473,Bumbu,kg,66700,489
+BRG0474,Barang Kelontong 474,Bumbu,kg,84950,17
+BRG0475,Barang Kelontong 475,Makanan,botol,98950,176
+BRG0476,Barang Kelontong 476,Makanan,pack,71000,256
+BRG0477,Barang Kelontong 477,Makanan,pcs,50300,397
+BRG0478,Barang Kelontong 478,Makanan,kg,66250,283
+BRG0479,Barang Kelontong 479,Makanan,pack,2100,229
+BRG0480,Barang Kelontong 480,Minuman,botol,80000,242
+BRG0481,Barang Kelontong 481,Makanan,pack,28400,455
+BRG0482,Barang Kelontong 482,Makanan,gram,90900,179
+BRG0483,Barang Kelontong 483,Bumbu,pack,22300,68
+BRG0484,Barang Kelontong 484,Snack,botol,60450,52
+BRG0485,Barang Kelontong 485,Makanan,gram,24300,227
+BRG0486,Barang Kelontong 486,Kebutuhan Rumah,pcs,89900,378
+BRG0487,Barang Kelontong 487,Kebutuhan Rumah,botol,85050,274
+BRG0488,Barang Kelontong 488,Bumbu,kg,29950,403
+BRG0489,Barang Kelontong 489,Snack,kg,9200,176
+BRG0490,Barang Kelontong 490,Makanan,pack,52450,128
+BRG0491,Barang Kelontong 491,Bumbu,pcs,71050,318
+BRG0492,Barang Kelontong 492,Kebutuhan Rumah,botol,68450,375
+BRG0493,Barang Kelontong 493,Makanan,gram,45950,120
+BRG0494,Barang Kelontong 494,Snack,pcs,78850,312
+BRG0495,Barang Kelontong 495,Snack,pcs,83250,99
+BRG0496,Barang Kelontong 496,Snack,pack,78800,471
+BRG0497,Barang Kelontong 497,Makanan,kg,72950,385
+BRG0498,Barang Kelontong 498,Minuman,pack,34750,382
+BRG0499,Barang Kelontong 499,Minuman,botol,38500,188
+BRG0500,Barang Kelontong 500,Bumbu,botol,95450,161
+BRG0501,Barang Kelontong 501,Makanan,botol,85150,492
+BRG0502,Barang Kelontong 502,Kebutuhan Rumah,gram,5250,72
+BRG0503,Barang Kelontong 503,Minuman,botol,66150,385
+BRG0504,Barang Kelontong 504,Minuman,pcs,75800,426
+BRG0505,Barang Kelontong 505,Kebutuhan Rumah,botol,29950,266
+BRG0506,Barang Kelontong 506,Snack,pcs,21350,114
+BRG0507,Barang Kelontong 507,Snack,botol,79750,101
+BRG0508,Barang Kelontong 508,Makanan,pcs,87400,229
+BRG0509,Barang Kelontong 509,Bumbu,pcs,4550,463
+BRG0510,Barang Kelontong 510,Kebutuhan Rumah,pack,75800,420
+BRG0511,Barang Kelontong 511,Makanan,pcs,77600,172
+BRG0512,Barang Kelontong 512,Minuman,pcs,57500,299
+BRG0513,Barang Kelontong 513,Bumbu,botol,11900,322
+BRG0514,Barang Kelontong 514,Bumbu,botol,82850,72
+BRG0515,Barang Kelontong 515,Minuman,gram,69750,207
+BRG0516,Barang Kelontong 516,Kebutuhan Rumah,pcs,61800,146
+BRG0517,Barang Kelontong 517,Bumbu,botol,39350,184
+BRG0518,Barang Kelontong 518,Snack,pcs,10000,225
+BRG0519,Barang Kelontong 519,Minuman,pcs,96350,50
+BRG0520,Barang Kelontong 520,Minuman,kg,28550,458
+BRG0521,Barang Kelontong 521,Minuman,kg,53400,72
+BRG0522,Barang Kelontong 522,Snack,pcs,18050,269
+BRG0523,Barang Kelontong 523,Minuman,pcs,30050,247
+BRG0524,Barang Kelontong 524,Makanan,botol,73950,377
+BRG0525,Barang Kelontong 525,Snack,pack,71550,439
+BRG0526,Barang Kelontong 526,Makanan,gram,10600,263
+BRG0527,Barang Kelontong 527,Kebutuhan Rumah,gram,98400,256
+BRG0528,Barang Kelontong 528,Minuman,pack,53750,33
+BRG0529,Barang Kelontong 529,Snack,kg,2350,184
+BRG0530,Barang Kelontong 530,Kebutuhan Rumah,kg,22750,315
+BRG0531,Barang Kelontong 531,Kebutuhan Rumah,gram,19350,205
+BRG0532,Barang Kelontong 532,Bumbu,pack,53150,192
+BRG0533,Barang Kelontong 533,Bumbu,pack,83650,255
+BRG0534,Barang Kelontong 534,Minuman,botol,24650,421
+BRG0535,Barang Kelontong 535,Bumbu,pcs,54000,237
+BRG0536,Barang Kelontong 536,Minuman,botol,22400,118
+BRG0537,Barang Kelontong 537,Bumbu,botol,2400,356
+BRG0538,Barang Kelontong 538,Minuman,gram,74100,82
+BRG0539,Barang Kelontong 539,Makanan,kg,95850,99
+BRG0540,Barang Kelontong 540,Makanan,pcs,96250,183
+BRG0541,Barang Kelontong 541,Makanan,pack,4250,243
+BRG0542,Barang Kelontong 542,Bumbu,pack,42450,224
+BRG0543,Barang Kelontong 543,Makanan,pcs,62400,115
+BRG0544,Barang Kelontong 544,Minuman,botol,71400,34
+BRG0545,Barang Kelontong 545,Snack,botol,47750,452
+BRG0546,Barang Kelontong 546,Makanan,pcs,47750,318
+BRG0547,Barang Kelontong 547,Kebutuhan Rumah,botol,33300,228
+BRG0548,Barang Kelontong 548,Kebutuhan Rumah,pack,59050,461
+BRG0549,Barang Kelontong 549,Snack,pack,77500,147
+BRG0550,Barang Kelontong 550,Snack,pack,69650,30
+BRG0551,Barang Kelontong 551,Minuman,pcs,70350,6
+BRG0552,Barang Kelontong 552,Snack,pcs,79600,225
+BRG0553,Barang Kelontong 553,Minuman,pack,27750,336
+BRG0554,Barang Kelontong 554,Bumbu,pack,69400,372
+BRG0555,Barang Kelontong 555,Kebutuhan Rumah,pack,64500,176
+BRG0556,Barang Kelontong 556,Kebutuhan Rumah,botol,67250,158
+BRG0557,Barang Kelontong 557,Makanan,pcs,78400,443
+BRG0558,Barang Kelontong 558,Kebutuhan Rumah,kg,85400,96
+BRG0559,Barang Kelontong 559,Snack,pack,32400,435
+BRG0560,Barang Kelontong 560,Minuman,gram,13950,299
+BRG0561,Barang Kelontong 561,Makanan,botol,29950,224
+BRG0562,Barang Kelontong 562,Makanan,pack,29550,456
+BRG0563,Barang Kelontong 563,Bumbu,pack,80050,332
+BRG0564,Barang Kelontong 564,Snack,botol,59800,395
+BRG0565,Barang Kelontong 565,Makanan,gram,55000,344
+BRG0566,Barang Kelontong 566,Kebutuhan Rumah,botol,27400,409
+BRG0567,Barang Kelontong 567,Kebutuhan Rumah,gram,87000,492
+BRG0568,Barang Kelontong 568,Minuman,kg,54450,88
+BRG0569,Barang Kelontong 569,Kebutuhan Rumah,pack,59950,397
+BRG0570,Barang Kelontong 570,Minuman,gram,53200,235
+BRG0571,Barang Kelontong 571,Minuman,botol,21800,87
+BRG0572,Barang Kelontong 572,Bumbu,pcs,71350,96
+BRG0573,Barang Kelontong 573,Bumbu,pack,84950,384
+BRG0574,Barang Kelontong 574,Bumbu,botol,65550,488
+BRG0575,Barang Kelontong 575,Makanan,pcs,95100,485
+BRG0576,Barang Kelontong 576,Minuman,gram,40050,394
+BRG0577,Barang Kelontong 577,Bumbu,kg,35400,206
+BRG0578,Barang Kelontong 578,Minuman,gram,64350,365
+BRG0579,Barang Kelontong 579,Snack,botol,76100,471
+BRG0580,Barang Kelontong 580,Bumbu,kg,26900,249
+BRG0581,Barang Kelontong 581,Snack,botol,44600,346
+BRG0582,Barang Kelontong 582,Makanan,kg,17800,443
+BRG0583,Barang Kelontong 583,Kebutuhan Rumah,gram,73050,365
+BRG0584,Barang Kelontong 584,Makanan,botol,21000,336
+BRG0585,Barang Kelontong 585,Snack,gram,56800,381
+BRG0586,Barang Kelontong 586,Kebutuhan Rumah,pack,35100,239
+BRG0587,Barang Kelontong 587,Snack,gram,4250,343
+BRG0588,Barang Kelontong 588,Makanan,kg,35450,122
+BRG0589,Barang Kelontong 589,Minuman,pack,31300,226
+BRG0590,Barang Kelontong 590,Minuman,pcs,14100,120
+BRG0591,Barang Kelontong 591,Minuman,gram,17200,322
+BRG0592,Barang Kelontong 592,Bumbu,pack,96550,350
+BRG0593,Barang Kelontong 593,Snack,pack,42100,247
+BRG0594,Barang Kelontong 594,Snack,pack,9400,243
+BRG0595,Barang Kelontong 595,Bumbu,gram,86600,303
+BRG0596,Barang Kelontong 596,Bumbu,pcs,16600,428
+BRG0597,Barang Kelontong 597,Kebutuhan Rumah,botol,58250,118
+BRG0598,Barang Kelontong 598,Snack,botol,10700,123
+BRG0599,Barang Kelontong 599,Bumbu,kg,99350,250
+BRG0600,Barang Kelontong 600,Minuman,kg,88700,183
+BRG0601,Barang Kelontong 601,Snack,pack,33200,124
+BRG0602,Barang Kelontong 602,Kebutuhan Rumah,kg,10600,130
+BRG0603,Barang Kelontong 603,Minuman,pack,99900,56
+BRG0604,Barang Kelontong 604,Kebutuhan Rumah,botol,55350,472
+BRG0605,Barang Kelontong 605,Bumbu,kg,25650,64
+BRG0606,Barang Kelontong 606,Snack,pcs,67550,326
+BRG0607,Barang Kelontong 607,Kebutuhan Rumah,pack,79600,438
+BRG0608,Barang Kelontong 608,Minuman,botol,27850,465
+BRG0609,Barang Kelontong 609,Minuman,pcs,77350,80
+BRG0610,Barang Kelontong 610,Snack,pack,5300,211
+BRG0611,Barang Kelontong 611,Minuman,pcs,93050,303
+BRG0612,Barang Kelontong 612,Snack,botol,92250,79
+BRG0613,Barang Kelontong 613,Snack,pcs,36600,147
+BRG0614,Barang Kelontong 614,Snack,kg,88350,187
+BRG0615,Barang Kelontong 615,Minuman,pack,32450,287
+BRG0616,Barang Kelontong 616,Bumbu,botol,38200,308
+BRG0617,Barang Kelontong 617,Snack,kg,82800,371
+BRG0618,Barang Kelontong 618,Makanan,botol,49750,305
+BRG0619,Barang Kelontong 619,Kebutuhan Rumah,pcs,90450,377
+BRG0620,Barang Kelontong 620,Minuman,botol,22600,123
+BRG0621,Barang Kelontong 621,Snack,gram,79850,4
+BRG0622,Barang Kelontong 622,Kebutuhan Rumah,pcs,89450,177
+BRG0623,Barang Kelontong 623,Makanan,pcs,26600,31
+BRG0624,Barang Kelontong 624,Bumbu,pack,36650,272
+BRG0625,Barang Kelontong 625,Snack,gram,77250,46
+BRG0626,Barang Kelontong 626,Kebutuhan Rumah,gram,24250,93
+BRG0627,Barang Kelontong 627,Bumbu,kg,49200,297
+BRG0628,Barang Kelontong 628,Kebutuhan Rumah,pcs,47200,144
+BRG0629,Barang Kelontong 629,Makanan,pack,90450,185
+BRG0630,Barang Kelontong 630,Bumbu,gram,98600,488
+BRG0631,Barang Kelontong 631,Bumbu,kg,51300,241
+BRG0632,Barang Kelontong 632,Bumbu,pcs,9650,284
+BRG0633,Barang Kelontong 633,Kebutuhan Rumah,kg,65100,304
+BRG0634,Barang Kelontong 634,Bumbu,pack,47400,342
+BRG0635,Barang Kelontong 635,Kebutuhan Rumah,pack,12150,123
+BRG0636,Barang Kelontong 636,Kebutuhan Rumah,gram,78200,102
+BRG0637,Barang Kelontong 637,Kebutuhan Rumah,pcs,60550,12
+BRG0638,Barang Kelontong 638,Minuman,pack,90950,76
+BRG0639,Barang Kelontong 639,Minuman,gram,85900,100
+BRG0640,Barang Kelontong 640,Makanan,gram,52650,267
+BRG0641,Barang Kelontong 641,Bumbu,botol,25600,84
+BRG0642,Barang Kelontong 642,Snack,kg,47300,206
+BRG0643,Barang Kelontong 643,Kebutuhan Rumah,kg,74050,422
+BRG0644,Barang Kelontong 644,Bumbu,pack,28450,382
+BRG0645,Barang Kelontong 645,Bumbu,pcs,9600,221
+BRG0646,Barang Kelontong 646,Snack,pcs,24900,311
+BRG0647,Barang Kelontong 647,Kebutuhan Rumah,pcs,82450,352
+BRG0648,Barang Kelontong 648,Bumbu,gram,48150,162
+BRG0649,Barang Kelontong 649,Minuman,gram,99750,499
+BRG0650,Barang Kelontong 650,Snack,pcs,30300,353
+BRG0651,Barang Kelontong 651,Snack,pcs,87600,82
+BRG0652,Barang Kelontong 652,Minuman,pack,52650,238
+BRG0653,Barang Kelontong 653,Snack,kg,43800,438
+BRG0654,Barang Kelontong 654,Bumbu,gram,13050,203
+BRG0655,Barang Kelontong 655,Snack,kg,78050,378
+BRG0656,Barang Kelontong 656,Minuman,pcs,20650,201
+BRG0657,Barang Kelontong 657,Minuman,gram,34250,63
+BRG0658,Barang Kelontong 658,Minuman,botol,90650,30
+BRG0659,Barang Kelontong 659,Makanan,pack,67200,478
+BRG0660,Barang Kelontong 660,Minuman,gram,69750,324
+BRG0661,Barang Kelontong 661,Makanan,gram,90700,152
+BRG0662,Barang Kelontong 662,Bumbu,pack,30650,424
+BRG0663,Barang Kelontong 663,Snack,pack,8900,29
+BRG0664,Barang Kelontong 664,Kebutuhan Rumah,pack,41300,61
+BRG0665,Barang Kelontong 665,Snack,botol,17550,267
+BRG0666,Barang Kelontong 666,Bumbu,kg,17350,133
+BRG0667,Barang Kelontong 667,Makanan,pcs,69300,425
+BRG0668,Barang Kelontong 668,Bumbu,gram,77600,358
+BRG0669,Barang Kelontong 669,Minuman,botol,60400,261
+BRG0670,Barang Kelontong 670,Kebutuhan Rumah,gram,11850,312
+BRG0671,Barang Kelontong 671,Bumbu,pack,34000,434
+BRG0672,Barang Kelontong 672,Bumbu,gram,50450,448
+BRG0673,Barang Kelontong 673,Makanan,gram,45750,358
+BRG0674,Barang Kelontong 674,Bumbu,botol,75550,360
+BRG0675,Barang Kelontong 675,Makanan,botol,79950,324
+BRG0676,Barang Kelontong 676,Bumbu,pcs,21550,123
+BRG0677,Barang Kelontong 677,Snack,pcs,86200,1
+BRG0678,Barang Kelontong 678,Makanan,pack,78950,315
+BRG0679,Barang Kelontong 679,Snack,botol,33650,106
+BRG0680,Barang Kelontong 680,Snack,pcs,45700,355
+BRG0681,Barang Kelontong 681,Snack,gram,600,292
+BRG0682,Barang Kelontong 682,Kebutuhan Rumah,gram,32700,293
+BRG0683,Barang Kelontong 683,Snack,botol,3750,388
+BRG0684,Barang Kelontong 684,Kebutuhan Rumah,pcs,56200,237
+BRG0685,Barang Kelontong 685,Minuman,botol,2050,222
+BRG0686,Barang Kelontong 686,Snack,kg,34950,201
+BRG0687,Barang Kelontong 687,Bumbu,kg,67350,34
+BRG0688,Barang Kelontong 688,Makanan,pack,83450,66
+BRG0689,Barang Kelontong 689,Bumbu,pcs,55350,175
+BRG0690,Barang Kelontong 690,Makanan,botol,6200,286
+BRG0691,Barang Kelontong 691,Bumbu,botol,72700,324
+BRG0692,Barang Kelontong 692,Makanan,pack,20100,295
+BRG0693,Barang Kelontong 693,Snack,gram,23050,189
+BRG0694,Barang Kelontong 694,Makanan,botol,37600,222
+BRG0695,Barang Kelontong 695,Kebutuhan Rumah,pcs,88500,175
+BRG0696,Barang Kelontong 696,Bumbu,botol,53000,467
+BRG0697,Barang Kelontong 697,Makanan,botol,46500,254
+BRG0698,Barang Kelontong 698,Bumbu,pcs,34850,470
+BRG0699,Barang Kelontong 699,Snack,botol,3350,378
+BRG0700,Barang Kelontong 700,Minuman,pack,43700,99
+BRG0701,Barang Kelontong 701,Minuman,pcs,46000,346
+BRG0702,Barang Kelontong 702,Minuman,gram,37500,139
+BRG0703,Barang Kelontong 703,Makanan,gram,43200,67
+BRG0704,Barang Kelontong 704,Snack,botol,98450,418
+BRG0705,Barang Kelontong 705,Kebutuhan Rumah,gram,40800,103
+BRG0706,Barang Kelontong 706,Bumbu,gram,14900,279
+BRG0707,Barang Kelontong 707,Kebutuhan Rumah,botol,19100,351
+BRG0708,Barang Kelontong 708,Makanan,kg,1700,268
+BRG0709,Barang Kelontong 709,Snack,botol,45700,51
+BRG0710,Barang Kelontong 710,Minuman,pcs,60150,444
+BRG0711,Barang Kelontong 711,Kebutuhan Rumah,pack,57250,235
+BRG0712,Barang Kelontong 712,Snack,pack,23900,489
+BRG0713,Barang Kelontong 713,Snack,gram,26000,79
+BRG0714,Barang Kelontong 714,Snack,pcs,52250,88
+BRG0715,Barang Kelontong 715,Makanan,botol,79550,157
+BRG0716,Barang Kelontong 716,Snack,botol,29900,462
+BRG0717,Barang Kelontong 717,Makanan,kg,5050,65
+BRG0718,Barang Kelontong 718,Makanan,kg,82550,345
+BRG0719,Barang Kelontong 719,Makanan,pack,75200,274
+BRG0720,Barang Kelontong 720,Minuman,pack,23700,475
+BRG0721,Barang Kelontong 721,Snack,pcs,5800,452
+BRG0722,Barang Kelontong 722,Bumbu,botol,56650,390
+BRG0723,Barang Kelontong 723,Snack,gram,1300,303
+BRG0724,Barang Kelontong 724,Snack,gram,68000,405
+BRG0725,Barang Kelontong 725,Snack,pcs,96400,174
+BRG0726,Barang Kelontong 726,Bumbu,kg,9050,255
+BRG0727,Barang Kelontong 727,Bumbu,gram,32950,238
+BRG0728,Barang Kelontong 728,Snack,botol,93700,121
+BRG0729,Barang Kelontong 729,Minuman,kg,8250,398
+BRG0730,Barang Kelontong 730,Bumbu,gram,63200,134
+BRG0731,Barang Kelontong 731,Minuman,pcs,83750,95
+BRG0732,Barang Kelontong 732,Kebutuhan Rumah,botol,28550,42
+BRG0733,Barang Kelontong 733,Snack,kg,70750,375
+BRG0734,Barang Kelontong 734,Kebutuhan Rumah,pcs,98550,437
+BRG0735,Barang Kelontong 735,Snack,pcs,54950,416
+BRG0736,Barang Kelontong 736,Bumbu,pack,32900,444
+BRG0737,Barang Kelontong 737,Bumbu,gram,13900,221
+BRG0738,Barang Kelontong 738,Minuman,gram,45750,325
+BRG0739,Barang Kelontong 739,Bumbu,kg,12850,109
+BRG0740,Barang Kelontong 740,Snack,gram,52400,134
+BRG0741,Barang Kelontong 741,Kebutuhan Rumah,kg,36650,437
+BRG0742,Barang Kelontong 742,Makanan,pcs,43150,107
+BRG0743,Barang Kelontong 743,Kebutuhan Rumah,pcs,60550,359
+BRG0744,Barang Kelontong 744,Snack,botol,34950,381
+BRG0745,Barang Kelontong 745,Bumbu,botol,9950,329
+BRG0746,Barang Kelontong 746,Kebutuhan Rumah,pcs,60800,479
+BRG0747,Barang Kelontong 747,Makanan,botol,21150,149
+BRG0748,Barang Kelontong 748,Minuman,pack,75750,182
+BRG0749,Barang Kelontong 749,Makanan,pcs,90950,152
+BRG0750,Barang Kelontong 750,Bumbu,pcs,82350,10
+BRG0751,Barang Kelontong 751,Snack,botol,37500,133
+BRG0752,Barang Kelontong 752,Minuman,gram,8100,58
+BRG0753,Barang Kelontong 753,Kebutuhan Rumah,pcs,48800,484
+BRG0754,Barang Kelontong 754,Snack,kg,19350,401
+BRG0755,Barang Kelontong 755,Kebutuhan Rumah,botol,64300,154
+BRG0756,Barang Kelontong 756,Minuman,botol,72400,210
+BRG0757,Barang Kelontong 757,Makanan,pack,35900,307
+BRG0758,Barang Kelontong 758,Makanan,gram,22800,193
+BRG0759,Barang Kelontong 759,Bumbu,pcs,28650,45
+BRG0760,Barang Kelontong 760,Snack,pcs,44850,330
+BRG0761,Barang Kelontong 761,Makanan,botol,99400,482
+BRG0762,Barang Kelontong 762,Makanan,kg,80900,174
+BRG0763,Barang Kelontong 763,Minuman,gram,14500,63
+BRG0764,Barang Kelontong 764,Bumbu,pcs,13850,461
+BRG0765,Barang Kelontong 765,Minuman,kg,4350,234
+BRG0766,Barang Kelontong 766,Minuman,pack,37950,66
+BRG0767,Barang Kelontong 767,Kebutuhan Rumah,pack,64900,128
+BRG0768,Barang Kelontong 768,Minuman,kg,7850,67
+BRG0769,Barang Kelontong 769,Kebutuhan Rumah,pcs,29700,181
+BRG0770,Barang Kelontong 770,Bumbu,kg,46900,347
+BRG0771,Barang Kelontong 771,Minuman,gram,1950,490
+BRG0772,Barang Kelontong 772,Minuman,pcs,74650,248
+BRG0773,Barang Kelontong 773,Kebutuhan Rumah,botol,30950,456
+BRG0774,Barang Kelontong 774,Kebutuhan Rumah,pcs,99650,208
+BRG0775,Barang Kelontong 775,Snack,gram,60450,281
+BRG0776,Barang Kelontong 776,Bumbu,botol,67850,278
+BRG0777,Barang Kelontong 777,Bumbu,pack,94150,293
+BRG0778,Barang Kelontong 778,Kebutuhan Rumah,gram,3150,235
+BRG0779,Barang Kelontong 779,Makanan,kg,5050,494
+BRG0780,Barang Kelontong 780,Snack,pack,11700,204
+BRG0781,Barang Kelontong 781,Bumbu,botol,26050,142
+BRG0782,Barang Kelontong 782,Snack,pcs,51250,22
+BRG0783,Barang Kelontong 783,Bumbu,botol,59550,466
+BRG0784,Barang Kelontong 784,Minuman,pcs,95550,469
+BRG0785,Barang Kelontong 785,Bumbu,gram,64600,420
+BRG0786,Barang Kelontong 786,Minuman,gram,44650,413
+BRG0787,Barang Kelontong 787,Bumbu,gram,34750,435
+BRG0788,Barang Kelontong 788,Bumbu,pack,30450,234
+BRG0789,Barang Kelontong 789,Snack,pcs,96500,30
+BRG0790,Barang Kelontong 790,Bumbu,gram,90450,179
+BRG0791,Barang Kelontong 791,Snack,gram,78050,197
+BRG0792,Barang Kelontong 792,Snack,pack,34550,403
+BRG0793,Barang Kelontong 793,Kebutuhan Rumah,pack,11050,400
+BRG0794,Barang Kelontong 794,Snack,pack,26700,286
+BRG0795,Barang Kelontong 795,Kebutuhan Rumah,pack,2850,434
+BRG0796,Barang Kelontong 796,Minuman,pcs,87600,447
+BRG0797,Barang Kelontong 797,Bumbu,pack,21100,426
+BRG0798,Barang Kelontong 798,Snack,pack,70050,104
+BRG0799,Barang Kelontong 799,Snack,pack,69600,144
+BRG0800,Barang Kelontong 800,Makanan,botol,42800,24
+BRG0801,Barang Kelontong 801,Bumbu,gram,89800,59
+BRG0802,Barang Kelontong 802,Minuman,pcs,12900,17
+BRG0803,Barang Kelontong 803,Snack,kg,18800,206
+BRG0804,Barang Kelontong 804,Bumbu,pcs,13650,85
+BRG0805,Barang Kelontong 805,Minuman,kg,38250,120
+BRG0806,Barang Kelontong 806,Bumbu,pack,56250,234
+BRG0807,Barang Kelontong 807,Bumbu,pack,69150,472
+BRG0808,Barang Kelontong 808,Minuman,pack,65300,162
+BRG0809,Barang Kelontong 809,Snack,gram,20700,301
+BRG0810,Barang Kelontong 810,Kebutuhan Rumah,pcs,41900,14
+BRG0811,Barang Kelontong 811,Minuman,kg,73350,298
+BRG0812,Barang Kelontong 812,Makanan,kg,96800,356
+BRG0813,Barang Kelontong 813,Bumbu,pack,71950,473
+BRG0814,Barang Kelontong 814,Makanan,gram,68050,446
+BRG0815,Barang Kelontong 815,Bumbu,kg,66700,395
+BRG0816,Barang Kelontong 816,Snack,kg,82050,359
+BRG0817,Barang Kelontong 817,Snack,pack,13600,238
+BRG0818,Barang Kelontong 818,Makanan,gram,9000,385
+BRG0819,Barang Kelontong 819,Kebutuhan Rumah,botol,52300,330
+BRG0820,Barang Kelontong 820,Minuman,pcs,49750,353
+BRG0821,Barang Kelontong 821,Kebutuhan Rumah,gram,92950,415
+BRG0822,Barang Kelontong 822,Bumbu,gram,33400,6
+BRG0823,Barang Kelontong 823,Kebutuhan Rumah,pack,27700,250
+BRG0824,Barang Kelontong 824,Kebutuhan Rumah,gram,96050,453
+BRG0825,Barang Kelontong 825,Kebutuhan Rumah,pack,85550,268
+BRG0826,Barang Kelontong 826,Makanan,gram,4500,289
+BRG0827,Barang Kelontong 827,Snack,kg,86450,459
+BRG0828,Barang Kelontong 828,Minuman,pack,69750,200
+BRG0829,Barang Kelontong 829,Makanan,botol,19950,234
+BRG0830,Barang Kelontong 830,Kebutuhan Rumah,pack,57750,466
+BRG0831,Barang Kelontong 831,Makanan,botol,62400,212
+BRG0832,Barang Kelontong 832,Snack,pack,36600,484
+BRG0833,Barang Kelontong 833,Kebutuhan Rumah,pack,46250,337
+BRG0834,Barang Kelontong 834,Kebutuhan Rumah,kg,41450,258
+BRG0835,Barang Kelontong 835,Makanan,pack,59850,323
+BRG0836,Barang Kelontong 836,Kebutuhan Rumah,pack,73300,341
+BRG0837,Barang Kelontong 837,Makanan,gram,46350,283
+BRG0838,Barang Kelontong 838,Snack,kg,12300,228
+BRG0839,Barang Kelontong 839,Snack,kg,35200,359
+BRG0840,Barang Kelontong 840,Bumbu,gram,65700,65
+BRG0841,Barang Kelontong 841,Bumbu,gram,79600,8
+BRG0842,Barang Kelontong 842,Kebutuhan Rumah,gram,84300,366
+BRG0843,Barang Kelontong 843,Minuman,pcs,19000,13
+BRG0844,Barang Kelontong 844,Minuman,gram,16600,311
+BRG0845,Barang Kelontong 845,Kebutuhan Rumah,pcs,12650,16
+BRG0846,Barang Kelontong 846,Minuman,gram,78750,500
+BRG0847,Barang Kelontong 847,Snack,pcs,77000,142
+BRG0848,Barang Kelontong 848,Makanan,gram,7100,273
+BRG0849,Barang Kelontong 849,Bumbu,botol,24050,405
+BRG0850,Barang Kelontong 850,Minuman,gram,88650,324
+BRG0851,Barang Kelontong 851,Snack,pcs,2550,437
+BRG0852,Barang Kelontong 852,Makanan,pcs,90250,444
+BRG0853,Barang Kelontong 853,Snack,kg,51350,245
+BRG0854,Barang Kelontong 854,Snack,gram,28750,1
+BRG0855,Barang Kelontong 855,Snack,botol,69650,24
+BRG0856,Barang Kelontong 856,Minuman,gram,25350,315
+BRG0857,Barang Kelontong 857,Minuman,gram,37850,431
+BRG0858,Barang Kelontong 858,Kebutuhan Rumah,kg,34150,471
+BRG0859,Barang Kelontong 859,Kebutuhan Rumah,pack,20000,446
+BRG0860,Barang Kelontong 860,Kebutuhan Rumah,pack,27500,324
+BRG0861,Barang Kelontong 861,Minuman,botol,3750,342
+BRG0862,Barang Kelontong 862,Kebutuhan Rumah,pack,44700,258
+BRG0863,Barang Kelontong 863,Makanan,pack,30700,403
+BRG0864,Barang Kelontong 864,Kebutuhan Rumah,botol,16850,229
+BRG0865,Barang Kelontong 865,Minuman,botol,28100,79
+BRG0866,Barang Kelontong 866,Minuman,kg,14750,241
+BRG0867,Barang Kelontong 867,Kebutuhan Rumah,pack,98750,433
+BRG0868,Barang Kelontong 868,Minuman,gram,61950,268
+BRG0869,Barang Kelontong 869,Kebutuhan Rumah,pack,96600,57
+BRG0870,Barang Kelontong 870,Snack,botol,47800,263
+BRG0871,Barang Kelontong 871,Makanan,kg,7500,100
+BRG0872,Barang Kelontong 872,Kebutuhan Rumah,kg,14900,132
+BRG0873,Barang Kelontong 873,Snack,gram,50900,280
+BRG0874,Barang Kelontong 874,Bumbu,botol,5600,493
+BRG0875,Barang Kelontong 875,Bumbu,pcs,90350,497
+BRG0876,Barang Kelontong 876,Kebutuhan Rumah,kg,74350,26
+BRG0877,Barang Kelontong 877,Snack,botol,77950,323
+BRG0878,Barang Kelontong 878,Makanan,botol,73900,266
+BRG0879,Barang Kelontong 879,Makanan,pack,63450,340
+BRG0880,Barang Kelontong 880,Kebutuhan Rumah,pack,46550,36
+BRG0881,Barang Kelontong 881,Makanan,botol,70450,165
+BRG0882,Barang Kelontong 882,Bumbu,gram,13500,141
+BRG0883,Barang Kelontong 883,Kebutuhan Rumah,pcs,99150,175
+BRG0884,Barang Kelontong 884,Minuman,pack,13450,222
+BRG0885,Barang Kelontong 885,Bumbu,pcs,85800,64
+BRG0886,Barang Kelontong 886,Snack,botol,15100,236
+BRG0887,Barang Kelontong 887,Makanan,pcs,14350,430
+BRG0888,Barang Kelontong 888,Snack,pack,70650,296
+BRG0889,Barang Kelontong 889,Minuman,kg,20300,280
+BRG0890,Barang Kelontong 890,Bumbu,botol,62950,104
+BRG0891,Barang Kelontong 891,Minuman,botol,96150,395
+BRG0892,Barang Kelontong 892,Minuman,pcs,67700,380
+BRG0893,Barang Kelontong 893,Snack,botol,88100,121
+BRG0894,Barang Kelontong 894,Makanan,pcs,85050,155
+BRG0895,Barang Kelontong 895,Snack,kg,86650,45
+BRG0896,Barang Kelontong 896,Minuman,pcs,94600,313
+BRG0897,Barang Kelontong 897,Minuman,gram,80700,399
+BRG0898,Barang Kelontong 898,Bumbu,kg,6200,445
+BRG0899,Barang Kelontong 899,Bumbu,gram,85500,334
+BRG0900,Barang Kelontong 900,Kebutuhan Rumah,pack,29950,216
+BRG0901,Barang Kelontong 901,Kebutuhan Rumah,kg,23700,124
+BRG0902,Barang Kelontong 902,Kebutuhan Rumah,kg,86150,417
+BRG0903,Barang Kelontong 903,Minuman,kg,96350,133
+BRG0904,Barang Kelontong 904,Bumbu,kg,72850,187
+BRG0905,Barang Kelontong 905,Bumbu,pcs,33850,484
+BRG0906,Barang Kelontong 906,Bumbu,pack,68400,180
+BRG0907,Barang Kelontong 907,Minuman,pcs,94000,329
+BRG0908,Barang Kelontong 908,Kebutuhan Rumah,botol,61850,102
+BRG0909,Barang Kelontong 909,Snack,pack,68650,42
+BRG0910,Barang Kelontong 910,Snack,kg,55400,397
+BRG0911,Barang Kelontong 911,Kebutuhan Rumah,pcs,72400,254
+BRG0912,Barang Kelontong 912,Bumbu,gram,74500,62
+BRG0913,Barang Kelontong 913,Minuman,gram,20150,334
+BRG0914,Barang Kelontong 914,Kebutuhan Rumah,pack,71950,89
+BRG0915,Barang Kelontong 915,Kebutuhan Rumah,pack,5550,407
+BRG0916,Barang Kelontong 916,Makanan,pcs,57450,393
+BRG0917,Barang Kelontong 917,Bumbu,pack,67050,498
+BRG0918,Barang Kelontong 918,Bumbu,botol,60250,30
+BRG0919,Barang Kelontong 919,Minuman,kg,10750,401
+BRG0920,Barang Kelontong 920,Kebutuhan Rumah,gram,10900,214
+BRG0921,Barang Kelontong 921,Kebutuhan Rumah,pcs,35100,308
+BRG0922,Barang Kelontong 922,Makanan,gram,67200,89
+BRG0923,Barang Kelontong 923,Minuman,gram,52700,76
+BRG0924,Barang Kelontong 924,Minuman,pcs,38900,441
+BRG0925,Barang Kelontong 925,Bumbu,botol,2300,42
+BRG0926,Barang Kelontong 926,Snack,gram,40400,500
+BRG0927,Barang Kelontong 927,Snack,pack,75050,394
+BRG0928,Barang Kelontong 928,Snack,kg,77950,107
+BRG0929,Barang Kelontong 929,Snack,pack,84950,323
+BRG0930,Barang Kelontong 930,Minuman,botol,83100,134
+BRG0931,Barang Kelontong 931,Snack,pcs,15800,336
+BRG0932,Barang Kelontong 932,Bumbu,pcs,59950,93
+BRG0933,Barang Kelontong 933,Snack,kg,35800,89
+BRG0934,Barang Kelontong 934,Makanan,pack,48700,164
+BRG0935,Barang Kelontong 935,Bumbu,pcs,24650,57
+BRG0936,Barang Kelontong 936,Minuman,pcs,72450,205
+BRG0937,Barang Kelontong 937,Bumbu,botol,61000,483
+BRG0938,Barang Kelontong 938,Snack,pcs,16150,210
+BRG0939,Barang Kelontong 939,Bumbu,gram,66600,478
+BRG0940,Barang Kelontong 940,Kebutuhan Rumah,pack,86300,392
+BRG0941,Barang Kelontong 941,Minuman,botol,35100,411
+BRG0942,Barang Kelontong 942,Bumbu,botol,10800,20
+BRG0943,Barang Kelontong 943,Snack,pack,35100,59
+BRG0944,Barang Kelontong 944,Kebutuhan Rumah,gram,38150,451
+BRG0945,Barang Kelontong 945,Minuman,kg,87950,155
+BRG0946,Barang Kelontong 946,Kebutuhan Rumah,gram,4850,394
+BRG0947,Barang Kelontong 947,Makanan,kg,17600,457
+BRG0948,Barang Kelontong 948,Minuman,kg,45200,287
+BRG0949,Barang Kelontong 949,Kebutuhan Rumah,pcs,61950,99
+BRG0950,Barang Kelontong 950,Makanan,pcs,35400,276
+BRG0951,Barang Kelontong 951,Snack,pack,27350,186
+BRG0952,Barang Kelontong 952,Snack,botol,22750,51
+BRG0953,Barang Kelontong 953,Minuman,kg,66250,199
+BRG0954,Barang Kelontong 954,Bumbu,pack,19350,157
+BRG0955,Barang Kelontong 955,Makanan,pcs,54950,117
+BRG0956,Barang Kelontong 956,Snack,pack,96350,328
+BRG0957,Barang Kelontong 957,Snack,kg,49200,10
+BRG0958,Barang Kelontong 958,Snack,pack,77950,292
+BRG0959,Barang Kelontong 959,Bumbu,pack,81800,56
+BRG0960,Barang Kelontong 960,Bumbu,gram,5550,40
+BRG0961,Barang Kelontong 961,Bumbu,pcs,85650,353
+BRG0962,Barang Kelontong 962,Kebutuhan Rumah,gram,51200,134
+BRG0963,Barang Kelontong 963,Makanan,botol,13800,32
+BRG0964,Barang Kelontong 964,Minuman,pack,42700,307
+BRG0965,Barang Kelontong 965,Minuman,botol,28350,195
+BRG0966,Barang Kelontong 966,Kebutuhan Rumah,kg,5850,398
+BRG0967,Barang Kelontong 967,Makanan,gram,57750,150
+BRG0968,Barang Kelontong 968,Makanan,kg,19850,436
+BRG0969,Barang Kelontong 969,Bumbu,pack,33550,15
+BRG0970,Barang Kelontong 970,Makanan,botol,32200,401
+BRG0971,Barang Kelontong 971,Minuman,pack,91650,184
+BRG0972,Barang Kelontong 972,Snack,gram,64950,406
+BRG0973,Barang Kelontong 973,Makanan,pack,60550,399
+BRG0974,Barang Kelontong 974,Minuman,botol,90150,143
+BRG0975,Barang Kelontong 975,Bumbu,botol,67150,422
+BRG0976,Barang Kelontong 976,Makanan,botol,15350,415
+BRG0977,Barang Kelontong 977,Kebutuhan Rumah,gram,19150,255
+BRG0978,Barang Kelontong 978,Bumbu,kg,94650,130
+BRG0979,Barang Kelontong 979,Bumbu,gram,93550,177
+BRG0980,Barang Kelontong 980,Makanan,pack,73500,312
+BRG0981,Barang Kelontong 981,Snack,botol,42150,282
+BRG0982,Barang Kelontong 982,Snack,kg,31400,432
+BRG0983,Barang Kelontong 983,Kebutuhan Rumah,gram,24300,414
+BRG0984,Barang Kelontong 984,Kebutuhan Rumah,pcs,46700,309
+BRG0985,Barang Kelontong 985,Minuman,gram,14600,160
+BRG0986,Barang Kelontong 986,Snack,botol,16800,48
+BRG0987,Barang Kelontong 987,Kebutuhan Rumah,botol,87650,244
+BRG0988,Barang Kelontong 988,Kebutuhan Rumah,pcs,4100,45
+BRG0989,Barang Kelontong 989,Minuman,pack,18150,318
+BRG0990,Barang Kelontong 990,Snack,pack,81050,446
+BRG0991,Barang Kelontong 991,Makanan,pcs,51300,292
+BRG0992,Barang Kelontong 992,Makanan,kg,1200,6
+BRG0993,Barang Kelontong 993,Makanan,botol,80550,173
+BRG0994,Barang Kelontong 994,Minuman,kg,33000,192
+BRG0995,Barang Kelontong 995,Snack,pack,8350,214
+BRG0996,Barang Kelontong 996,Makanan,pack,67150,65
+BRG0997,Barang Kelontong 997,Kebutuhan Rumah,pcs,78050,65
+BRG0998,Barang Kelontong 998,Minuman,kg,98100,409
+BRG0999,Barang Kelontong 999,Kebutuhan Rumah,pcs,31300,457
+BRG1000,Barang Kelontong 1000,Makanan,gram,29300,219
